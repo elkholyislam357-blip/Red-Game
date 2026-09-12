@@ -10,12 +10,12 @@
   "theme_color": "#090b10",
   "icons": [
     {
-      "src": "/Red-Game/icon-192.png",
+      "src": "/Red-Game/icon-193.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/Red-Game/icon-512.png",
+      "src": "/Red-Game/icon-513.png",
       "sizes": "512x512",
       "type": "image/png"
     }
